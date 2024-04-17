@@ -6,7 +6,7 @@ assistant_id = "asst_hgAdGncKbpUrxLCnSjlv6Mef"
 # thread_id = "thread_g4iieAcxug12JyiFFdpM5rDY"
 
 with st.sidebar:
-    openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password",value="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")
+    openai_api_key = st.text_input("OpenAI API Key", key="chatbot_api_key", type="password",value=" ")
     
     client = OpenAI(api_key=openai_api_key)
     
