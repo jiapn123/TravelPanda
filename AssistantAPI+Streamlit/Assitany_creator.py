@@ -1,5 +1,5 @@
 from openai import OpenAI
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=" ")
 
 file="/Users/jiapannan/PycharmProjects/pythonProject/pythonProject/1000 Assistant API/assistant_api/SeoulTourismPlaces.html"
 
