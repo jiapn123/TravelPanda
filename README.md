@@ -1,8 +1,6 @@
-# TravelPanda
-<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
-  <source src="vedio/TravelPanda여행일정 플래너 및 상품 추천 시연 영상.mp4" type="video/mp4">
-</video>
+# TravelPanda [전체 PPT 보기](https://www.canva.com/design/DAF6CARwbXQ/47l0bOPOKzV-j5d_wRhQhA/edit)
 
-<video autoplay loop muted playsinline>
-  <source src="vedio/TravelPanda여행일정 플래너 및 상품 추천 시연 영상.mp4" type="video/mp4">
-</video>
+### 시연 영상
+https://github.com/jiapn123/TravelPanda/assets/155503641/5376855e-9c9c-42ed-9545-d68a927a7fa6
+
+
