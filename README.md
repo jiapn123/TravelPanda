@@ -6,7 +6,7 @@
 ### 2. 메인 서비스 설게
 <img width="709" alt="Screenshot 2024-04-19 at 11 39 02 AM" src="https://github.com/jiapn123/TravelPanda/assets/155503641/984bdc92-e22f-4f2d-82b1-216d18b31e51">
 
-### 3. OpenAI Assistant API 할용 
+### 3. OpenAI Assistant API 활용 
 <img width="613" alt="Screenshot 2024-04-19 at 12 06 48 PM" src="https://github.com/jiapn123/TravelPanda/assets/155503641/34de4e07-6a12-4301-a081-af1ba326201f">
 
 ### 4. 시연 영상
